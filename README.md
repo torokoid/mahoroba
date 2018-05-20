@@ -41,9 +41,9 @@ body { background-color: #ccffcc; }
 <p><span class="blue"><strong> 歴代の記録 </strong></span></p>
 
 <h3>2012年の記録</h3>
-<img src="https://torokoid.github.io/mahoroba/0234.JPG" alt="河原でのバーベキュー" width="628" height="458" border="0" /><br/>
-<img src="https://torokoid.github.io/mahoroba/0235.JPG" alt="" width="628" height="458" border="0" /><br/>
-<img src="https://torokoid.github.io/mahoroba/0240.JPG" alt="" width="628" height="458" border="0" /><br/>
+<img src="https://torokoid.github.io/mahoroba/0234.JPG" alt="河原でのバーベキュー" width="318" height="229" border="0" /><br/>
+<img src="https://torokoid.github.io/mahoroba/0235.JPG" alt="" width="318" height="229" border="0" /><br/>
+<img src="https://torokoid.github.io/mahoroba/0240.JPG" alt="" width="318" height="229" border="0" /><br/>
   
    <p>&#160;</p>
 
