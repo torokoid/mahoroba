@@ -36,9 +36,9 @@ body { background-color: #ccffcc; }
 
 <!-- ヘッダ -->
  <header>
- <h1><span class="blue"><strong>歴代の記録</strong></span></h1>
+ <h1><span class="blue"><strong>毎年、夏季休暇を利用してお泊り会！</strong></span></h1>
  </header>
-<p><span class="blue"><strong> 毎年、夏季休暇を利用してお泊り会！ </strong></span></p>
+<p><span class="blue"><strong> 歴代の記録 </strong></span></p>
 
 <h3>2012年の記録</h3>
 <img src="https://torokoid.github.io/mahoroba/016_IMG_0234.JPG" alt="河原でのバーベキュー" width="628" height="458" border="0" /><br/>
