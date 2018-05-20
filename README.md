@@ -47,10 +47,11 @@ body { background-color: #ccffcc; }
   
    <p>&#160;</p>
 
-   <h2> 
-      <span class="blue"><strong> 感謝(^^)/ </strong></span></h2>
+
             <p>宿泊予約はム～さんのご尽力！
    <br/>いつも遠くからおいでのス～さん、お気をつけて！</p>
+      <h2> 
+      <span class="blue"><strong> 毎年集まれることに感謝(^^)/ </strong></span></h2>
 
 <!-- フッタ -->
  <footer>
