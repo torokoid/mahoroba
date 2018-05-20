@@ -40,8 +40,10 @@ body { background-color: #ccffcc; }
  </header>
 <p><span class="blue"><strong> 毎年、夏季休暇を利用してお泊り会！ </strong></span></p>
 
-<h3>2018/5/13のメニュー実績</h3>
-<img src="https://torokoid.github.io/mahoroba/0B7A7501.JPG" alt="ひたち海浜公園のネモフィラ" width="628" height="458" border="0" />
+<h3>2012年の記録</h3>
+<img src="https://torokoid.github.io/mahoroba/016_IMG_1234.JPG" alt="河原でのバーベキュー" width="628" height="458" border="0" /><br/>
+<img src="https://torokoid.github.io/mahoroba/017_IMG_1235.JPG" alt="" width="628" height="458" border="0" /><br/>
+<img src="https://torokoid.github.io/mahoroba/018_IMG_1236.JPG" alt="" width="628" height="458" border="0" /><br/>
   
    <p>&#160;</p>
 
