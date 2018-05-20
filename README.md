@@ -41,6 +41,7 @@ body { background-color: #ccffcc; }
 <p><span class="blue"><strong> 毎年、夏季休暇を利用してお泊り会！ </strong></span></p>
 
 <h3>2018/5/13のメニュー実績</h3>
+<img src="https://torokoid.github.io/mahoroba/0B7A7501.JPG" alt="ひたち海浜公園のネモフィラ" width="628" height="458" border="0" />
   
    <p>&#160;</p>
 
