@@ -31,42 +31,25 @@ body { background-color: #ccffcc; }
 
 <body>
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! ホンダ水泳同好会 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! まほろばの湯 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!-- ヘッダ -->
  <header>
- <h1><span class="blue"><strong>恒例練習</strong></span></h1>
+ <h1><span class="blue"><strong>歴代の記録</strong></span></h1>
  </header>
-<p><span class="blue"><strong> 健保体育館プールにて毎週日曜日AM10:30スタート </strong></span></p>
-
-<h3>2018/5/20のメニュー実績</h3>
-
-   <p>Swim25m x 40@30sec 
-   <br/>one hand pull R,L,comb,mix
-   <br/>one hand straight arm pull
-   <br/>straight arm pull
-   <br/>start dash	　
-   <p>&#160;</p>
+<p><span class="blue"><strong> 毎年、夏季休暇を利用してお泊り会！ </strong></span></p>
 
 <h3>2018/5/13のメニュー実績</h3>
   
-   <p>Swim25m x 40@30sec 
-   <br/>Stream Line
-   <br/>Stream Line + kick
-   <br/>Stream Line + kick + one hand pull
-   <br/>Stream Line + kick + pull	　
-   <br/>Stream Line + kick + pull & dush!
-   <p>	      <h2>→　<span class="red">kickのペースにpullをシンクロ</span></h2></p>
    <p>&#160;</p>
 
-
    <h2> 
-      <span class="blue"><strong> tips! </strong></span></h2>
-            <p>pullは二軸を意識して
-   <br/>kickは蹴り上げで膝を少し曲げて水面から足を出すのがポイント</p>
+      <span class="blue"><strong> 感謝(^^)/ </strong></span></h2>
+            <p>宿泊予約はム～さんのご尽力！
+   <br/>いつも遠くからおいでのス～さん、お気をつけて！</p>
 
 <!-- フッタ -->
  <footer>
- Copyright 2018/05/18 S.Hada
+ Copyright 2018/05/20 S.Hada
  </footer>
