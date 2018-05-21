@@ -44,6 +44,7 @@ body { background-color: #ccffcc; }
 <img src="https://torokoid.github.io/mahoroba/1171.JPG" alt="" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/0129.JPG" alt="" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/0135.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/1188.JPG" alt="" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/0138.JPG" alt="" width="229" height="318" border="0" />
 <img src="https://torokoid.github.io/mahoroba/1193.JPG" alt="" width="229" height="318" border="0" /><br/>
 <h3>2012年の記録</h3>
