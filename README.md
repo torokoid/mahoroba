@@ -68,7 +68,7 @@ body { background-color: #ccffcc; }
       <span class="blue"><strong><marquee behavior="alternate"> 毎年集まれることに感謝(^^)/ </marquee></strong></span></h2>
       <section>
  <h3>まほろば地図</h3>
- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d34112.38530840965!2d140.1117377093282!3d36.75511413447097!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6021da5dc7caf985%3A0x4ed7845b628b80c1!2z44G-44G744KN44Gw44Gu5rmvIOa5r-imqumkqA!5e0!3m2!1sja!2sjp!4v1526971680141" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+ <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d3613.6261617544483!2d140.1364481031006!3d36.765441082837135!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sja!2sjp!4v1527029841980" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
        </section>
       <p>&#160;</p>
 <p>おまけ、宇都宮の天気予報</p>
