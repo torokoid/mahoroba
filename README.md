@@ -39,6 +39,13 @@ body { background-color: #ccffcc; }
  <h1><span class="blue"><strong>毎年、夏季休暇を利用してお泊り会！</strong></span></h1>
  </header>
 <p><span class="blue"><strong> 歴代の記録 </strong></span></p>
+<h3>2014年の記録</h3>
+<img src="https://torokoid.github.io/mahoroba/180.JPG" alt="河原でのバーベキュー" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/181.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/204.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/440.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/446.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/460.JPG" alt="" width="229" height="318" border="0" /><br/>
 <h3>2013年の記録</h3>
 <img src="https://torokoid.github.io/mahoroba/0126.JPG" alt="河原でのバーベキュー" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/1171.JPG" alt="" width="318" height="229" border="0" />
