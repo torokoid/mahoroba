@@ -39,6 +39,30 @@ body { background-color: #ccffcc; }
  <h1><span class="blue"><strong>毎年、夏季休暇を利用してお泊り会！</strong></span></h1>
  </header>
 <p><span class="blue"><strong> 歴代の記録 </strong></span></p>
+<h3>2015年の記録</h3>
+<img src="https://torokoid.github.io/mahoroba/0568.JPG" alt="河原でのバーベキュー" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/6638.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/6645.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/6646.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/6647.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/6648.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/6658.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/6663.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/6670.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/6679.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/6703.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/6706.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/6718.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/6720.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/6721.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/6722.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/6732.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/6740.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/6742.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/6748.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/6754.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/6844.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/7804.JPG" alt="" width="318" height="229" border="0" /><br/>
 <h3>2014年の記録</h3>
 <img src="https://torokoid.github.io/mahoroba/180.JPG" alt="河原でのバーベキュー" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/181.JPG" alt="" width="318" height="229" border="0" />
