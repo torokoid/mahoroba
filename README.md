@@ -62,7 +62,7 @@ body { background-color: #ccffcc; }
 <img src="https://torokoid.github.io/mahoroba/6748.JPG" alt="" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/6754.JPG" alt="" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/6844.JPG" alt="" width="318" height="229" border="0" />
-<img src="https://torokoid.github.io/mahoroba/7804.JPG" alt="" width="318" height="229" border="0" /><br/>
+<img src="https://torokoid.github.io/mahoroba/7804.JPG" alt="" width="229" height="318" border="0" /><br/>
 <h3>2014年の記録</h3>
 <img src="https://torokoid.github.io/mahoroba/180.JPG" alt="河原でのバーベキュー" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/181.JPG" alt="" width="318" height="229" border="0" />
