@@ -49,7 +49,7 @@ body { background-color: #ccffcc; }
 <img src="https://torokoid.github.io/mahoroba/189.JPG" alt="" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/196.JPG" alt="" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/207.JPG" alt="" width="318" height="229" border="0" />
-<img src="https://torokoid.github.io/mahoroba/216.JPG" alt="" width="318" height="210" border="0" />
+<img src="https://torokoid.github.io/mahoroba/216.JPG" alt="" width="318" height="200" border="0" />
 <img src="https://torokoid.github.io/mahoroba/217.JPG" alt="" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/219.JPG" alt="" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/224.JPG" alt="" width="318" height="229" border="0" />
