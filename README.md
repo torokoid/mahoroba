@@ -132,6 +132,11 @@ body { background-color: #ccffcc; }
  <iframe src="https://www.jma.go.jp/jp/highresorad/" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
        </section>
       <p>&#160;</p>
+                  <section>
+ <h3>Google</h3>
+ <iframe src="https://www.google.co.jp/webhp?authuser=2" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+       </section>
+      <p>&#160;</p>
             <section>
  <h3>Canon imagegateway</h3>
  <iframe src="https://ptl.imagegateway.net/top" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
