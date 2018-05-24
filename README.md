@@ -43,7 +43,7 @@ body { background-color: #ccffcc; }
 <img src="https://torokoid.github.io/mahoroba/137.JPG" alt="河原でのバーベキュー" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/142.JPG" alt="" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/151.JPG" alt="" width="318" height="229" border="0" />
-<img src="https://torokoid.github.io/mahoroba/167.JPG" alt="" width="318" height="229" border="0" />
+<img src="https://torokoid.github.io/mahoroba/167.JPG" alt="" width="229" height="318" border="0" />
 <img src="https://torokoid.github.io/mahoroba/168.JPG" alt="" width="229" height="318" border="0" />
 <img src="https://torokoid.github.io/mahoroba/169.JPG" alt="" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/207.JPG" alt="" width="318" height="229" border="0" />
