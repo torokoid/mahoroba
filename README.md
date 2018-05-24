@@ -44,7 +44,7 @@ body { background-color: #ccffcc; }
 <img src="https://torokoid.github.io/mahoroba/142.JPG" alt="" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/151.JPG" alt="" width="229" height="318" border="0" />
 <img src="https://torokoid.github.io/mahoroba/167.JPG" alt="" width="318" height="229" border="0" />
-<img src="https://torokoid.github.io/mahoroba/174.JPG" alt="" width="229" height="318" border="0" />
+<img src="https://torokoid.github.io/mahoroba/174.JPG" alt="" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/186.JPG" alt="" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/189.JPG" alt="" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/196.JPG" alt="" width="318" height="229" border="0" />
