@@ -133,8 +133,8 @@ body { background-color: #ccffcc; }
        </section>
       <p>&#160;</p>
             <section>
- <h3>nifty</h3>
- <iframe src="https://www.nifty.com//" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+ <h3>Canon imagegateway</h3>
+ <iframe src="https://ptl.imagegateway.net/top" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
        </section>
       <p>&#160;</p>
 
