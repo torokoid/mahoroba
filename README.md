@@ -141,15 +141,12 @@ body { background-color: #ccffcc; }
  <h3>気象庁、高解像度降水ナウキャスト</h3>
  <iframe src="https://www.jma.go.jp/jp/highresorad/" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
        </section>
-      <p>&#160;</p>
                   <section>
  <a href="https://news.google.com/u/2/?taa=1&pageId=none&hl=ja&gl=JP&ceid=JP:ja">Google News</a>
        </section>
-      <p>&#160;</p>
       <section>
  <a href="https://www.nifty.com/">Nifty</a>
        </section>
-      <p>&#160;</p>
       <section>
  <a href="https://www.yahoo.co.jp/">Yahoo</a>
        </section>
