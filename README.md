@@ -144,17 +144,17 @@ body { background-color: #ccffcc; }
       <p>&#160;</p>
                   <section>
  <h3>Google</h3>
- <iframe src="https://news.google.com/?hl=ja&gl=JP&ceid=JP:ja" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+ <a href="https://news.google.com/u/2/?taa=1&pageId=none&hl=ja&gl=JP&ceid=JP:ja">Google News</a>
        </section>
       <p>&#160;</p>
       <section>
  <h3>Nifty</h3>
- <iframe src="https://www.nifty.com/" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+ <a href="https://www.nifty.com/">Nifty</a>
        </section>
       <p>&#160;</p>
       <section>
  <h3>Yahoo</h3>
- <iframe src="https://www.yahoo.co.jp/" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+ <a href="https://www.yahoo.co.jp/">Yahoo</a>
        </section>
       <p>&#160;</p>
             <section>
