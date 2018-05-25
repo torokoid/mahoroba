@@ -143,17 +143,14 @@ body { background-color: #ccffcc; }
        </section>
       <p>&#160;</p>
                   <section>
- <h3>Google</h3>
  <a href="https://news.google.com/u/2/?taa=1&pageId=none&hl=ja&gl=JP&ceid=JP:ja">Google News</a>
        </section>
       <p>&#160;</p>
       <section>
- <h3>Nifty</h3>
  <a href="https://www.nifty.com/">Nifty</a>
        </section>
       <p>&#160;</p>
       <section>
- <h3>Yahoo</h3>
  <a href="https://www.yahoo.co.jp/">Yahoo</a>
        </section>
       <p>&#160;</p>
