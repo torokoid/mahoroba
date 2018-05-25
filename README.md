@@ -134,7 +134,7 @@ body { background-color: #ccffcc; }
       <p>&#160;</p>
                   <section>
  <h3>Google</h3>
- <iframe src="https://www.google.co.jp/webhp?authuser=2" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+ <iframe src="https:https://news.google.com/?taa=1&hl=ja&gl=JP&ceid=JP:ja" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
        </section>
       <p>&#160;</p>
       <section>
