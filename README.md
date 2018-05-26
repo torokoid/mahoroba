@@ -20,7 +20,7 @@ font-size: 1.5em;
  -->
 
 
-body { background-color: #ccffcc; }
+body { background-color: #ccffff; }
 
 
 </style>
