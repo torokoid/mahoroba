@@ -39,11 +39,11 @@ body { background-color: #ccffcc; }
  <h1><span class="blue"><strong>毎年、夏季休暇を利用してお泊り会！</strong></span></h1>
  </header>
 <p><span class="blue"><strong> 歴代の記録 </strong></span></p>
-<p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2017/">2017年の記録</a> </marquee></span></h1></p>
-<p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2016/">2016年の記録</a> </marquee></span></h1></p>
-<p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2015/">2015年の記録</a> </marquee></span></h1></p>
-<p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2014/">2014年の記録</a> </marquee></span></h1></p>
-<p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2013/">2013年の記録</a> </marquee></span></h1></p>
+<p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2017/">     2017年の記録</a> </marquee></span></h1></p>
+<p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2016/">    2016年の記録</a> </marquee></span></h1></p>
+<p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2015/">   2015年の記録</a> </marquee></span></h1></p>
+<p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2014/">  2014年の記録</a> </marquee></span></h1></p>
+<p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2013/"> 2013年の記録</a> </marquee></span></h1></p>
 <p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2012/">2012年の記録</a> </marquee></span></h1></p>
   
 <p>&#160;</p>
