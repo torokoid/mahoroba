@@ -22,6 +22,21 @@ font-size: 1.5em;
 
 body { background-color: #ccffff; }
 
+a.p:hover {
+    position: relative;
+    text-decoration: none;
+}
+a.p span {
+    display: none;
+    position: absolute;
+    top: 1em;
+    left: 0;
+}
+a.p:hover span {
+    border: none;
+    display: block;
+    width: 210px;
+}
 
 </style>
 <link rel="stylesheet" href="../style.css/" type="text/css">
@@ -49,7 +64,8 @@ body { background-color: #ccffff; }
 <p>&#160;</p>
 
             <p>宿泊予約はム～さんのご尽力！
-   <br/>いつも遠くからおいでのス～さん、お気をつけて！</p>
+   <br/>いつも遠くからおいでのス～さん、お気をつけて！
+   こんにちは、<a href="#" class="p">インドのCCS<span><img src="https://globalsps.mds.honda.com/sites/jphgt38/Shared%20Documents/インド充電規格.JPG" alt="インドCCS"></span></a>です。</p>
       <h2> 
       <span class="blue"><strong><marquee behavior="alternate"> 毎年集まれることに感謝(^^)/ </marquee></strong></span></h2>
       <section>
