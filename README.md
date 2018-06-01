@@ -63,9 +63,9 @@ a.p:hover span {
   
 <p>&#160;</p>
 
-            <p>宿泊予約は<a href="#" class="p">ム～さん<span><img src="https://torokoid.github.io/mahoroba/0240.JPG" width="600" height="450" alt="ム～さん"></span></a>のご尽力！
+            <p>宿泊予約は<a href="#" class="p">ム～さん<span><img src="https://torokoid.github.io/mahoroba/0240.JPG" width="800" height="450" alt="ム～さん"></span></a>のご尽力！
    <br/>
-   いつも遠くからおいでの<a href="#" class="p">ス～さん、<span><img src="https://torokoid.github.io/mahoroba/6645.JPG" width="600" height="450" alt="ス～さん、"></span></a>お気をつけて！</p>
+   いつも遠くからおいでの<a href="#" class="p">ス～さん、<span><img src="https://torokoid.github.io/mahoroba/6645.JPG" width="800" height="450" alt="ス～さん、"></span></a>お気をつけて！</p>
       <h2> 
       <span class="blue"><strong><marquee behavior="alternate"> 毎年集まれることに感謝(^^)/ </marquee></strong></span></h2>
       <section>
