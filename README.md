@@ -51,7 +51,7 @@ a.p:hover span {
 
 <!-- ヘッダ -->
  <header>
- <h1><span class="blue"><strong>毎年、夏季休暇を利用してお泊り会！</strong></span></h1>
+ <h1><span class="blue"><strong>毎年、夏季休暇を利用して<a href="#" class="p">お泊り会！<span><img src="https://torokoid.github.io/mahoroba/545.JPG" alt="お泊り会！"></span></a></strong></span></h1>
  </header>
 <p><span class="blue"><strong> 歴代の記録 </strong></span></p>
 <p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2017/">_____2017年の記録</a> </marquee></span></h1></p>
