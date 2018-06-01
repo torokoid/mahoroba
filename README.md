@@ -51,7 +51,7 @@ a.p:hover span {
 
 <!-- ヘッダ -->
  <header>
- <h1><span class="blue"><strong><p>毎年、夏季休暇を利用して<a href="#" class="p">お泊り会！<span><img src="https://torokoid.github.io/mahoroba/454.JPG" alt="お泊り会！"></span></a></p></strong></span></h1>
+ <h1><span class="blue"><strong><p><a href="#" class="p">毎年、<span><img src="https://torokoid.github.io/mahoroba/454.JPG" alt="毎年、">夏季休暇を利用してお泊り会！</span></a></p></strong></span></h1>
  </header>
 <p><span class="blue"><strong> 歴代の記録 </strong></span></p>
 <p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2017/">_____2017年の記録</a> </marquee></span></h1></p>
@@ -63,9 +63,9 @@ a.p:hover span {
   
 <p>&#160;</p>
 
-            <p>宿泊予約は<a href="#" class="p">ム～さん<span><img src="https://torokoid.github.io/mahoroba/0240.JPG" width="700" height="450" alt="ム～さん"></span></a>のご尽力！
+            <p>宿泊予約は<a href="#" class="p">ム～さん<span><img src="https://torokoid.github.io/mahoroba/0240.JPG" alt="ム～さん"></span></a>のご尽力！
    <br/>
-   いつも遠くからおいでの<a href="#" class="p">ス～さん、<span><img src="https://torokoid.github.io/mahoroba/6645.JPG" width="700" height="450" alt="ス～さん、"></span></a>お気をつけて！</p>
+   いつも遠くからおいでの<a href="#" class="p">ス～さん、<span><img src="https://torokoid.github.io/mahoroba/6645.JPG" alt="ス～さん、"></span></a>お気をつけて！</p>
       <h2> 
       <span class="blue"><strong><marquee behavior="alternate"> 毎年集まれることに感謝(^^)/ </marquee></strong></span></h2>
       <section>
