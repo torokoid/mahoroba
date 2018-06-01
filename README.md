@@ -64,7 +64,7 @@ a.p:hover span {
 <p>&#160;</p>
 
             <p>宿泊予約はム～さんのご尽力！
-   <br/>いつも遠くからおいでの<a href="#" class="p">ス～さん、<span><img src="https://torokoid.github.io/mahoroba/6648.JPG" alt="ス～さん、"></span></a>お気をつけて！</p>
+   <br/>いつも遠くからおいでの<a href="#" class="p">ス～さん、<span><img src="https://torokoid.github.io/mahoroba/6645.JPG" alt="ス～さん、"></span></a>お気をつけて！</p>
       <h2> 
       <span class="blue"><strong><marquee behavior="alternate"> 毎年集まれることに感謝(^^)/ </marquee></strong></span></h2>
       <section>
