@@ -35,7 +35,7 @@ a.p span {
 a.p:hover span {
     border: none;
     display: block;
-    width: 210px;
+    width: 700px;
 }
 
 </style>
