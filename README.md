@@ -60,7 +60,10 @@ a.p:hover span {
 <p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2014/">__2014年の記録</a> </marquee></span></h1></p>
 <p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2013/">_2013年の記録</a> </marquee></span></h1></p>
 <p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2012/">2012年の記録</a> </marquee></span></h1></p>
-  
+<p>&#160;</p>
+<p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate"><a href="https://opa.cig2.imagegateway.net/s/cp/GtrPJYyVR4E">【番外編】2005(H17)年鮎パーティー</a> </marquee></span></h1></p>
+<br/>
+   <p>スタートは宇都宮駅、西口の川で鮎焼きしたのが始まりでした。2004年？</p>
 <p>&#160;</p>
 
             <p>宿泊予約は<a href="#" class="p">ム～さん<span><img src="https://torokoid.github.io/mahoroba/0240.JPG" alt="ム～さん"></span></a>のご尽力！
