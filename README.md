@@ -22,6 +22,8 @@ font-size: 1.5em;
 
 body { background-color: #ccffff; }
 
+div { background-image: url(https://torokoid.github.io/cautious-barnacle/0B7A7718.JPG
+);}
 a.p:hover {
     position: relative;
     text-decoration: none;
