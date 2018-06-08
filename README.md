@@ -65,8 +65,8 @@ a.p:hover span {
 <br/>
    <p>スタートは宇都宮駅、西口の川で鮎焼きしたのが始まりでした。2004年でしたか？</p>
 <p>&#160;</p>
-<div style="background: url(https://torokoid.github.io/mahoroba/409.jpg) ">
-</div>
+<div style="background: url(https://torokoid.github.io/mahoroba/409.jpg); ">
+
             <p>宿泊予約は<a href="#" class="p">ム～さん<span><img src="https://torokoid.github.io/mahoroba/0240.JPG" alt="ム～さん"></span></a>のご尽力！
    <br/>
    いつも遠くからおいでの<a href="#" class="p">ス～さん、<span><img src="https://torokoid.github.io/mahoroba/6645.JPG" alt="ス～さん、"></span></a>お気をつけて！</p>
