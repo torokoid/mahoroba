@@ -38,7 +38,7 @@ a.p:hover span {
     width: 700px;
 }
 
-a:hover{ background: url(https://github.com/torokoid/mahoroba/blob/master/96.JPG); }  /* CSS */
+body { background: url(https://torokoid.github.io/mahoroba/409.JPG); }  /* CSS */
 
 </style>
 <link rel="stylesheet" href="../style.css/" type="text/css">
@@ -72,7 +72,7 @@ a:hover{ background: url(https://github.com/torokoid/mahoroba/blob/master/96.JPG
    <br/>
 いつも遠くからおいでの<a href="#" class="p">ス～さん、<span><img src="https://torokoid.github.io/mahoroba/6645.JPG" alt="ス～さん、"></span></a>お気をつけて！</p>
       <h2> 
-      <span class="blue"><strong><marquee behavior="alternate"> <a href="https://github.com/torokoid/mahoroba/blob/master/96.JPG">毎年集まれることに感謝(^^)/ </a></marquee></strong></span></h2>
+      <span class="blue"><strong><marquee behavior="alternate"> <a href="https://torokoid.github.io/mahoroba/409.JPG">毎年集まれることに感謝(^^)/ </a></marquee></strong></span></h2>
       <section>
  <h3>まほろば地図</h3>
  <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d3613.6261617544483!2d140.1364481031006!3d36.765441082837135!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sja!2sjp!4v1527029841980" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
