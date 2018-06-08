@@ -38,7 +38,7 @@ a.p:hover span {
     width: 700px;
 }
 
-body { background: url(https://torokoid.github.io/mahoroba/409.JPG) repeat-y top center; background-size:contain;"}  /* CSS */
+body { background: url(https://torokoid.github.io/mahoroba/409.JPG) repeat-y top center; background-size:contain; no-scroll; "}  /* CSS */
 
 </style>
 <link rel="stylesheet" href="../style.css/" type="text/css">
