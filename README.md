@@ -14,10 +14,30 @@ font-size: 1.5em;
  .grey {color:#ffffff; background:#999999;}
  .yellow {color:#ff0000; background:#ffff00;}
  .blue {color:#0000ff;}
+ .white {color:#ffffff;}
  .waku {border:2px dotted #99cc66;
 　　　　　　line-height: 200%;
 　　　　　　padding: 10px;}
  -->
+
+/* 点滅 */
+.blinking{
+    -webkit-animation:blink 1.5s ease-in-out infinite alternate;
+    -moz-animation:blink 1.5s ease-in-out infinite alternate;
+    animation:blink 1.5s ease-in-out infinite alternate;
+}
+@-webkit-keyframes blink{
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+@-moz-keyframes blink{
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+@keyframes blink{
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
 
 
 body { background-color: #ccffff; }
@@ -53,9 +73,9 @@ body { background: url(https://torokoid.github.io/mahoroba/409.JPG) repeat-y top
 
 <!-- ヘッダ -->
  <header>
- <h2><span class="blue"><strong><p><a href="#" class="p">毎年<span><img src="https://torokoid.github.io/mahoroba/454.JPG" alt="毎年、"></span></a>夏季休暇を利用してお泊り会！</p></strong></span></h2>
+ <h2><span class="white"><strong><p><a href="#" class="p">毎年<span><img src="https://torokoid.github.io/mahoroba/454.JPG" alt="毎年、"></span></a>夏季休暇を利用してお泊り会！</p></strong></span></h2>
  </header>
-<p><span class="blue"><strong> <p><a href="#" class="p">歴代の記録、<span><img src="https://torokoid.github.io/mahoroba/0216.JPG" alt="歴代の記録、"></span></a>年代のクリックで飛びます。<br/>戻るにはブラウザの戻るボタンで！ </p></strong></span></p>
+<p><span class="white"><strong> <p><a href="#" class="p">歴代の記録、<span><img src="https://torokoid.github.io/mahoroba/0216.JPG" alt="歴代の記録、"></span></a>年代のクリックで飛びます。<br/>戻るにはブラウザの戻るボタンで！ </p></strong></span></p>
 <div style="background: url(https://torokoid.github.io/mahoroba/96.JPG) no-repeat top center; background-size:contain;"><h1><span style="color:#ff0000; background-color:#;"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2017/">_____2017年の記録</a> </marquee></span></h1>
 <p><h1><span style="color:#ff0000; background-color:#;"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2016/">____2016年の記録</a> </marquee></span></h1></p>
 <p><h1><span style="color:#ff0000; background-color:#;"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2015/">___2015年の記録</a> </marquee></span></h1></p>
@@ -68,9 +88,9 @@ body { background: url(https://torokoid.github.io/mahoroba/409.JPG) repeat-y top
    <p>スタートは宇都宮駅、西口の川で鮎焼きしたのが始まりでした。2004年でしたか？</p>
 <p>&#160;</p>
 
-<p>宿泊予約は<a href="#" class="p">ム～さん<span><img src="https://torokoid.github.io/mahoroba/0240.JPG" alt="ム～さん"></span></a>のご尽力！
+<p>宿泊予約は<a href="#" class="white">ム～さん<span><img src="https://torokoid.github.io/mahoroba/0240.JPG" alt="ム～さん"></span></a>のご尽力！
    <br/>
-いつも遠くからおいでの<a href="#" class="p">ス～さん、<span><img src="https://torokoid.github.io/mahoroba/6645.JPG" alt="ス～さん、"></span></a>お気をつけて！</p>
+いつも遠くからおいでの<a href="#" class="white">ス～さん、<span><img src="https://torokoid.github.io/mahoroba/6645.JPG" alt="ス～さん、"></span></a>お気をつけて！</p>
       <h2> 
       <span class="blue"><strong><marquee behavior="alternate"> <a href="https://torokoid.github.io/mahoroba/181.JPG">毎年集まれることに感謝(^^)/ </a></marquee></strong></span></h2>
       <section>
