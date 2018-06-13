@@ -73,7 +73,7 @@ body { background: url(https://torokoid.github.io/mahoroba/409.JPG) repeat-y top
 
 <!-- ヘッダ -->
  <header>
- <span class="blinking"><h2><span class="blue"><strong><p><a href="#" class="p">毎年<span><img src="https://torokoid.github.io/mahoroba/454.JPG" alt="毎年、"></span></span></a>夏季休暇を利用してお泊り会！</p></strong></span></h2>
+ <span class="blinking"><h2><span class="blue"><strong><p><a href="#" class="p">毎年</span><span><img src="https://torokoid.github.io/mahoroba/454.JPG" alt="毎年、"></span></a>夏季休暇を利用してお泊り会！</p></strong></span></h2>
  </header>
 <p><span class="blue"><strong> <p><a href="#" class="p">歴代の記録、<span><img src="https://torokoid.github.io/mahoroba/0216.JPG" alt="歴代の記録、"></span></a>年代のクリックで飛びます。<br/>戻るにはブラウザの戻るボタンで！ </p></strong></span></p>
 <div style="background: url(https://torokoid.github.io/mahoroba/96.JPG) no-repeat top center; background-size:contain;"><h1><span style="color:#ff0000; background-color:#;"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2017/">_____2017年の記録</a> </marquee></span></h1>
