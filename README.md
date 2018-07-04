@@ -109,7 +109,6 @@ body { background: url(https://torokoid.github.io/mahoroba/96.JPG) repeat-y top 
 <section>
  <a href="https://github.com/torokoid/mahoroba/blob/master/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%84.pdf">気功の真髄</a>
        </section>       
-       https://github.com/torokoid/mahoroba/blob/master/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%84.pdf
              <p>&#160;</p>
                   <section>
  <a href="https://news.google.com/u/2/?taa=1&pageId=none&hl=ja&gl=JP&ceid=JP:ja">Google News</a>
