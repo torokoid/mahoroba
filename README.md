@@ -107,7 +107,7 @@ body { background: url(https://torokoid.github.io/mahoroba/96.JPG) repeat-y top 
        </section>
  <section>
  <h2>簡易表計算</h2>
- <iframe src="http://lightspeedc.com/mithril/excel/excel-ex.html" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+ <a href="http://lightspeedc.com/mithril/excel/excel-ex.html" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></a>
        </section>
        <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
 <section>
