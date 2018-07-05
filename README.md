@@ -105,7 +105,8 @@ body { background: url(https://torokoid.github.io/mahoroba/96.JPG) repeat-y top 
 <h2>気象庁、高解像度降水ナウキャスト</h2>
  <iframe src="https://www.jma.go.jp/jp/highresorad/" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
        </section>
-       <h2>簡易表計算</h2>
+ <section>
+ <h2>簡易表計算</h2>
  <iframe src="http://lightspeedc.com/mithril/excel/excel-ex.html" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
        </section>
        <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
