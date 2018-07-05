@@ -110,6 +110,7 @@ body { background: url(https://torokoid.github.io/mahoroba/96.JPG) repeat-y top 
  <iframe src="http://lightspeedc.com/mithril/excel/excel-ex.html" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
        </section>
        <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
+       <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
 <section>
  <a href="https://github.com/torokoid/mahoroba/blob/master/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%84.pdf">気功の真髄</a>
        </section>       
