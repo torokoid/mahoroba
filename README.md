@@ -118,6 +118,16 @@ body { background: url(https://torokoid.github.io/mahoroba/96.JPG) repeat-y top 
        <iframe src="https://github.com/torokoid/mahoroba/blob/master/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%84.pdf" width="100%" height="100%">
 T   <p><b>表示されない時の表示</b>: <a href="https://github.com/torokoid/mahoroba/blob/master/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%84.pdf">PDF をダウンロード</a>.</p>
 </iframe>
+
+<iframe id="main-slide"
+    src="https://github.com/torokoid/mahoroba/blob/master/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%84.pdf"
+    scrolling="no"
+    allowtransparency="true"
+    width="100%"
+    height="100%"
+    style="border:0;">
+</iframe>
+
        
 <section>
  <a href="https://github.com/torokoid/mahoroba/blob/master/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%84.pdf">気功の真髄</a>
