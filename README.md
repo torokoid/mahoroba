@@ -128,6 +128,14 @@ T   <p><b>表示されない時の表示</b>: <a href="https://github.com/toroko
     style="border:0;">
 </iframe>
 
+<div id="content">
+   <div style="text-align: right; padding: 5px;">
+      <a class="action pdf" id="pdfDownloadLink" target="_parent" href="https://github.com/torokoid/mahoroba/blob/master/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%84.pdf" style="background: transparent url(http://ojsserver.com/lib/pkp/templates/images/structure/page_white_acrobat.png) no-repeat scroll 0 2px; padding: 3px 0 3px 23px; font-size: 1.2em; text-transform: none;">Download this PDF archive</a>
+  </div>
+   <div id="pdfCanvasContainer">
+      <iframe style="min-height: 500px;" allowfullscreen="" webkitallowfullscreen="" src="http://ojsserver.com/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https://github.com/torokoid/mahoroba/blob/master/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%84.pdf" width="100%" height="100%"></iframe>
+   </div>
+</div>
        
 <section>
  <a href="https://github.com/torokoid/mahoroba/blob/master/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%84.pdf">気功の真髄</a>
