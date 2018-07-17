@@ -144,7 +144,8 @@ function goukei(a,b,c,d) {
   <input type="button" value="す～" onclick="alert(hikizan_su(numa.value,nume.value))">
    <input type="button" value="し～" onclick="alert(hikizan_su(numb.value,nume.value))">
    <input type="button" value="は～" onclick="alert(hikizan_su(numc.value,nume.value))">
-   <input type="button" value="む～" onclick="alert(hikizan_su(numd.value,nume.value))"><br>
+   <input type="button" value="む～" onclick="alert(hikizan_su(numd.value,nume.value))">
+ <span class="grey">←名前を押すと各自の割り勘分が算出される。</span><br>
           <span class="grey">割り勘分を順番に入れる。</span><br>
   <input type="text" id="num_su">
   <input type="text" id="num_si">
