@@ -68,6 +68,33 @@ body { background: url(https://torokoid.github.io/mahoroba/96.JPG) repeat-y top 
 
 <body>
 
+<script type="text/javascript">
+function goukei(a,b,c,d) {
+        var e=Number(a)+Number(b)+Number(c)+Number(d);
+        return e;
+      } 
+        
+     function hikizan_su(a,e) {
+        var f=Number(e)/4-Number(a)
+        return f;
+      }         
+        
+     function hikizan_si(b,e) {
+        var g=Number(e)/4-Number(b)
+        return g;
+      }  
+        
+     function hikizan_ha(c,e) {
+        var h=Number(e)/4-Number(c)
+        return h;
+      } 
+        
+     function hikizan_mu(d,e) {
+        var i=Number(e)/4-Number(d)
+        return i;
+      } 
+        
+    </script>
 <h1><span class="yellow"><marquee behavior="alternate">!!! まほろばの湯 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
@@ -107,10 +134,24 @@ body { background: url(https://torokoid.github.io/mahoroba/96.JPG) repeat-y top 
        </section>
  <section>
  <h2>簡易表計算</h2>
- <iframe src="http://lightspeedc.com/mithril/excel/excel-ex.html" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-       </section>
-       <section>
- <a href="http://lightspeedc.com/mithril/excel/excel-ex.html">簡易表計算</a>
+     <p> <span class="grey">各自の支払い金額をす、し、は、むの順に入れる。</span><br>
+  <input type="text" id="numa">
+  <input type="text" id="numb">
+  <input type="text" id="numc">
+  <input type="text" id="numd">
+ <input type="button" value="合計する" onclick="alert(goukei(numa.value,numb.value,numc.value,numd.value))"><br>
+          <input type="text" id="nume"><span class="grey">←合計金額を入れる。</span><br>      
+  <input type="button" value="す～" onclick="alert(hikizan_su(numa.value,nume.value))">
+   <input type="button" value="し～" onclick="alert(hikizan_su(numb.value,nume.value))">
+   <input type="button" value="は～" onclick="alert(hikizan_su(numc.value,nume.value))">
+   <input type="button" value="む～" onclick="alert(hikizan_su(numd.value,nume.value))"><br>
+          <span class="grey">割り勘分を順番に入れる。</span><br>
+  <input type="text" id="num_su">
+  <input type="text" id="num_si">
+  <input type="text" id="num_ha">
+  <input type="text" id="num_mu"><br>
+          <span class="grey">最後に検算してみる。→</span>
+        <input type="button" value="検算" onclick="alert(goukei(num_su.value,num_si.value,num_ha.value,num_mu.value))"></span></p>
        </section>
        <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
        <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
