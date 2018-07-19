@@ -160,7 +160,7 @@ function goukei(a,b,c,d) {
 <h2><span class="blue">北京五輪の聖火ランナーも務めた、張明亮の難解な記述を紐解きましょう。</span><br>
 <span class="blue">ヒント、頭で考えてもダメ、感じて理解！</span></h2>
 <section>
- <h2><a href="https://github.com/torokoid/mahoroba/blob/master/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%84.pdf">気功の真髄</a></h2>
+ <h2><a href="https://github.com/torokoid/mahoroba/blob/master/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%84.pdf">「気功の真髄」張明亮、著</a></h2>
        </section>       
              <p>&#160;</p>
                   <section>
