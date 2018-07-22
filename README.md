@@ -112,7 +112,7 @@ function goukei(a,b,c,d) {
 
 <!-- ヘッダ -->
  <header>
- <h2><span class="white"><strong><p><a href="#" class="p">毎年<span><img src="https://torokoid.github.io/mahoroba/409.JPG" alt="毎年、"></span></a>夏季休暇を利用してお泊り会！</p></strong></span></h2>
+ <h2><span class="white"><strong><p>夏季休暇を利用して<a href="#" class="p">毎年<span><img src="https://torokoid.github.io/mahoroba/409.JPG" alt="毎年、"></span></a>お泊り会！</p></strong></span></h2>
  </header>
 <p><span class="white"><strong> <p><a href="#" class="p">歴代の記録、<span><img src="https://torokoid.github.io/mahoroba/0216.JPG" alt="歴代の記録、"></span></a>年代のクリックで飛びます。<br/>戻るにはブラウザの戻るボタンで！ </p></strong></span></p>
 <div style="background: url(https://torokoid.github.io/mahoroba/454.JPG) no-repeat top center; background-size:contain;"><h1><span style="color:#ff0000; background-color:rgb(0,255,255,0.1)"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2017/">_____2017年の記録</a> </marquee></span></h1>
@@ -129,7 +129,7 @@ function goukei(a,b,c,d) {
 
 <p>宿泊予約は<a href="#" class="p">ム～さん<span><img src="https://torokoid.github.io/mahoroba/0240.JPG" alt="ム～さん"></span></a>のご尽力！
    <br/>
-いつも遠くからおいでの<a href="#" class="p">ス～さん、<span><img src="https://torokoid.github.io/mahoroba/6645.JPG" alt="ス～さん、"></span></a>お気をつけて！</p>
+<a href="#" class="p">ス～さん、<span><img src="https://torokoid.github.io/mahoroba/6645.JPG" alt="ス～さん、"></span></a>いつも遠くからの運転、お気をつけて！</p>
       <h2> 
       <span class="blue"><strong><marquee behavior="alternate"> <a href="https://torokoid.github.io/mahoroba/181.JPG">毎年集まれることに感謝(^^)/ </a></marquee></strong></span></h2>
       <section>
