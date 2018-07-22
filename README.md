@@ -131,7 +131,7 @@ function goukei(a,b,c,d) {
    <br/>
 <a href="#" class="p">ス～さん、<span><img src="https://torokoid.github.io/mahoroba/6645.JPG" alt="ス～さん、"></span></a>いつも遠くからの運転、お気をつけて！</p>
       <h2> 
-      <span class="blue"><strong><marquee behavior="alternate"> <a href="https://torokoid.github.io/mahoroba/181.JPG">毎年集まれることに感謝(^^)/ </a></marquee></strong></span></h2>
+      <span class="blue"><strong><marquee behavior="alternate"> <a href="https://torokoid.github.io/mahoroba/181.JPG">毎年集まれることに感謝(^^)/ ← クリック！</a></marquee></strong></span></h2>
       <section>
  <h2>まほろば地図</h2>
  <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d3613.6261617544483!2d140.1364481031006!3d36.765441082837135!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sja!2sjp!4v1527029841980" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
