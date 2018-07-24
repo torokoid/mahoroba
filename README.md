@@ -168,9 +168,9 @@ function goukei(a,b,c,d) {
        </section>
   <p>&#160;</p><p>&#160;</p><p>&#160;</p>
   <section>
- <section>
+ <section><h2>
  <a href="https://torokoid.github.io/seisan/" target="_blank">簡易表計算-JavaScriptバージョンアップ版</a>
-       </section>
+  </h2>  </section>
 
 
 
