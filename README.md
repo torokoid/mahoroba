@@ -190,7 +190,7 @@ var warimu = Math.round (Number(buntan) - Number(nummu))
 //alert ("ハーさんの清算は" + wariha + "円です");
 //alert ("ムーさんの清算は" + warimu + "円です");
 
-document.write ("支出 <br> スーさん" + numsu + "円 <br> シーさん" + numsi + " <br> ハーさん" + numha + " <br> ムーさん" + nummu + "円 <br> 合計金額" + goukei + " <br><br> 各自の清算 <br> スーさん" + warisu + "円 <br> シーさん" + warisi + "円 <br> ハーさん" + wariha + "円 <br> ムーさん" + warimu + "円 <br><br> 以上、お帰りも気を付けて、来年も元気に再開！(^^)/");
+document.write ("支出 <br> スーさん：" + numsu + "円 <br> シーさん：" + numsi + " <br> ハーさん：" + numha + " <br> ムーさん：" + nummu + "円 <br> 合計金額" + goukei + " <br><br> 各自の清算 <br> スーさん：" + warisu + "円 <br> シーさん：" + warisi + "円 <br> ハーさん：" + wariha + "円 <br> ムーさん：" + warimu + "円 <br><br> 以上、お帰りも気を付けて、来年も元気に再開～(^^)/");
 </script>
  </section>
 
