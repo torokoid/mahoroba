@@ -168,7 +168,7 @@ function goukei(a,b,c,d) {
        </section>
  
   <section>
- <h2>簡易表計算-JavaScript改良版</h2>
+ <h2>簡易表計算-JavaScriptバージョンアップ版</h2>
   <script>
 //各自の支払額を保存
 var numsu = prompt ("ス～さんの支払額は？");
@@ -190,7 +190,7 @@ var warimu = Math.round (Number(buntan) - Number(nummu))
 //alert ("ハーさんの清算は" + wariha + "円です");
 //alert ("ムーさんの清算は" + warimu + "円です");
 
-document.write ("支出 <br> スーさん" + numsu + "円 <br> シーさん" + numsi + " <br> ハーさん" + numha + " <br> ムーさん" + nummu + "円 <br> 合計金額" + goukei + " <br><br> 各自の清算 <br> スーさん" + warisu + "円 <br> シーさん" + warisi + "円 <br> ハーさん" + wariha + "円 <br> ムーさん" + warimu + "円 <br><br> 以上、お帰りも気を付けて、来年も元気に再開！(^^)/");
+document.write (<h3>"支出 <br> スーさん" + numsu + "円 <br> シーさん" + numsi + " <br> ハーさん" + numha + " <br> ムーさん" + nummu + "円 <br> 合計金額" + goukei + " <br><br> 各自の清算 <br> スーさん" + warisu + "円 <br> シーさん" + warisi + "円 <br> ハーさん" + wariha + "円 <br> ムーさん" + warimu + "円 <br><br> 以上、お帰りも気を付けて、来年も元気に再開！(^^)/"</h3>);
 </script>
  </section>
 
