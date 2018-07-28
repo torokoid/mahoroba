@@ -180,19 +180,11 @@ function goukei(a,b,c,d) {
 <h2><span class="blue">北京五輪の聖火ランナーも務めた、張明亮の難解な記述を紐解きましょう。</span><br>
 <span class="blue">ヒント、頭で考えてもダメ、感じて理解！</span></h2>
 <section>
- <h2><a href="https://github.com/torokoid/mahoroba/blob/master/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%84.pdf">張明亮、著「気功の真髄」PC用</a><a href="https://torokoid.github.io/kikou/">張明亮、著「気功の真髄」スマホ用</a></h2>
+ <h2><a href="https://github.com/torokoid/mahoroba/blob/master/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%84.pdf">張明亮、著「気功の真髄」PC用</a><br>
+  <a href="https://torokoid.github.io/kikou/">張明亮、著「気功の真髄」PC,スマホ用</a></h2>
        </section>       
              <p>&#160;</p>
                   <section>
-
-<div id="content">
-   <div style="text-align: right; padding: 5px;">
-      <a class="action pdf" id="pdfDownloadLink" target="_parent" href="https://github.com/torokoid/mahoroba/blob/master/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%84.pdf" style="background: transparent url(http://ojsserver.com/lib/pkp/templates/images/structure/page_white_acrobat.png) no-repeat scroll 0 2px; padding: 3px 0 3px 23px; font-size: 1.2em; text-transform: none;">Download this PDF archive</a>
-  </div>
-   <div id="pdfCanvasContainer">
-      <iframe style="min-height: 500px;" allowfullscreen="" webkitallowfullscreen="" src="http://ojsserver.com/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https://github.com/torokoid/mahoroba/blob/master/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%84.pdf" width="100%" height="100%"></iframe>
-   </div>
-</div>
        
 
  <a href="https://news.google.com/u/2/?taa=1&pageId=none&hl=ja&gl=JP&ceid=JP:ja">Google News</a>
