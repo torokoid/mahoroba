@@ -145,7 +145,7 @@ function goukei(a,b,c,d) {
  <iframe src="https://www.jma.go.jp/jp/highresorad/" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
        </section>
  <section>
- <h2>簡易表計算</h2>
+ <h2>簡易表計算①</h2>
      <p> <h4><span class="grey">各自の支払い金額をす、し、は、むの順に入れる。</span><br>
   <input type="text" id="numa">
   <input type="text" id="numb">
@@ -167,12 +167,16 @@ function goukei(a,b,c,d) {
         <input type="button" value="検算" onclick="alert(goukei(num_su.value,num_si.value,num_ha.value,num_mu.value))"></h4></p>
        </section>
   <p>&#160;</p><p>&#160;</p><p>&#160;</p>
-  <section>
+
  <section><h2>
- <a href="https://torokoid.github.io/seisan/" target="_blank">簡易表計算-JavaScriptバージョンアップ版</a>
+ <a href="https://torokoid.github.io/seisan/" target="_blank">簡易表計算②-JavaScriptバージョンアップ版</a>
   </h2>  </section>
 
+ <p>&#160;</p><p>&#160;</p><p>&#160;</p>
 
+ <section><h2>
+ <a href="https://torokoid.github.io/seisan/" target="_blank">簡易表計算③-JavaScriptバージョンアップ版</a>
+  </h2>  </section>
 
        <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
        <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
