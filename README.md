@@ -175,7 +175,7 @@ function goukei(a,b,c,d) {
  <p>&#160;</p>
 
  <section><h2>
- <a href="https://torokoid.github.io/seisan-2/" target="_blank">簡易表計算③-JavaScriptバージョンアップ版、作動確認はIEのみ</a>
+ <a href="https://torokoid.github.io/seisan-2/" target="_blank">簡易表計算③-JavaScript多人数対応バージョンアップ版！</a>
   </h2>  </section>
 
        <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
