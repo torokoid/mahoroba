@@ -189,7 +189,7 @@ function goukei(a,b,c,d) {
 <section>
  <h2><a href="https://github.com/torokoid/mahoroba/blob/master/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%84.pdf">張明亮、著「気功の真髄」PC用</a><br>
   <a href="https://torokoid.github.io/kikou/">張明亮、著「気功の真髄」PC,スマホ用</a><br>
- <a href="http://www.emei-japan.net/">張明亮、HPリンク</a></h2>
+ <a href="http://www.emei-japan.net/" target="_blank">張明亮、HPリンク</a></h2>
        </section>       
              <p>&#160;</p>
                   <section>
