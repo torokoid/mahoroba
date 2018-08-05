@@ -182,8 +182,7 @@ function goukei(a,b,c,d) {
  <a href="https://torokoid.github.io/seisan-2/" target="_blank">簡易表計算③-JavaScript多人数対応バージョンアップ版！</a>
   </h2>  </section>
 
-       <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
-       <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
+       <p>&#160;</p><p>&#160;</p>
 
 <h2><span class="blue">北京五輪の聖火ランナーも務めた、張明亮の難解な記述を紐解きましょう。</span><br>
 <span class="blue">ヒント、頭で考えてもダメ、感じて理解！</span></h2>
@@ -194,9 +193,7 @@ function goukei(a,b,c,d) {
  <a href="http://www.emei-japan.net/wp-content/uploads/2015/03/%E5%BC%B5%E6%98%8E%E4%BA%AEIMG_0665.jpg" target="_blank">張明亮、老師アップ</a></h2>
        </section>       
              <p>&#160;</p>
-                  <section>
-       
-
+<h2>     <section>
  <a href="https://news.google.com/u/2/?taa=1&pageId=none&hl=ja&gl=JP&ceid=JP:ja">Google News</a>
        </section>
       <section>
@@ -204,13 +201,14 @@ function goukei(a,b,c,d) {
        </section>
       <section>
  <a href="https://www.yahoo.co.jp/">Yahoo</a>
-       </section>
+       </section> </h2>
       <p>&#160;</p>
             <section>
  <h2>Canon imagegateway</h2>
  <iframe src="https://ptl.imagegateway.net/top" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
        </section>
-      <p>&#160;</p>
+      <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
+       <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
 
 <!-- フッタ -->
  <footer>
