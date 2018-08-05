@@ -209,7 +209,7 @@ function goukei(a,b,c,d) {
        </section>
       <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
        <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
-
+<p align="right"><marquee direction="left" scrollamount="20" width="50%">まほろばの里、ロッジ全景</marquee></p>
 <!-- フッタ -->
  <footer>
  Copyright 2018/05/20 S.Hada
