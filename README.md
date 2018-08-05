@@ -149,7 +149,7 @@ function goukei(a,b,c,d) {
        </section>
    <p>&#160;</p>
  <section>
- <h2>簡易表計算①</h2>
+ <h2><span class="blue">簡易表計算①</span></h2>
      <p> <h4><span class="grey">各自の支払い金額をす、し、は、むの順に入れる。</span><br>
   <input type="text" id="numa">
   <input type="text" id="numb">
