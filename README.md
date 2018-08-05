@@ -22,42 +22,40 @@ font-size: 1.5em;
  -->
 
 /* 点滅 */
-/*.blinking{ */
-/*    -webkit-animation:blink 1.5s ease-in-out infinite alternate; */
-/*    -moz-animation:blink 1.5s ease-in-out infinite alternate; */
-/*    animation:blink 1.5s ease-in-out infinite alternate; */
-/* }  */
-/* @-webkit-keyframes blink{ */
-/*     0% {opacity:0;} */
-/*     100% {opacity:1;} */
-/* } */
-/* @-moz-keyframes blink{ */
-/*     0% {opacity:0;} */
-/*     100% {opacity:1;} */
-/* } */
-/* @keyframes blink{ */
-/*     0% {opacity:0;} */
-/*     100% {opacity:1;} */
-} */
+.blinking{
+    -webkit-animation:blink 1.5s ease-in-out infinite alternate;
+    -moz-animation:blink 1.5s ease-in-out infinite alternate;
+    animation:blink 1.5s ease-in-out infinite alternate;
+ } 
+ @-webkit-keyframes blink{
+     0% {opacity:0;}
+     100% {opacity:1;}
+ }
+ @-moz-keyframes blink{
+     0% {opacity:0;}
+     100% {opacity:1;}
+ }
+ @keyframes blink{
+     0% {opacity:0;}
+     100% {opacity:1;}
+}
 
-
-/* body { background-color: #ccffff; } */
-
-/* a.p:hover { */
- /*    position: relative; */
-/*     text-decoration: none; */
-/* } */
-/* a.p span { */
-/*     display: none; */
-/*     position: absolute; */
-/*     top: 1em; */
-/*     left: 0; */
-/* } */
-/* a.p:hover span { */
-/*     border: none; */
-/*     display: block; */
-/*     width: 700px; */
-} */
+ body { background-color: #ccffff; }
+ a.p:hover {
+    position: relative;
+     text-decoration: none;
+ }
+ a.p span {
+     display: none;
+     position: absolute;
+     top: 1em;
+     left: 0;
+ }
+ a.p:hover span {
+     border: none;
+     display: block;
+     width: 700px;
+}
 
 #wrap {background:none} /*PC用の背景はオフ*/
 body::before {
