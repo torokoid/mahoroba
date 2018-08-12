@@ -87,7 +87,10 @@ body::before {
  <h2><span class="white"><strong><p>夏季休暇を利用して<a href="#" class="p">毎年<span><img src="https://torokoid.github.io/mahoroba/409.JPG" alt="毎年、"></span></a>お泊り会！</p></strong></span></h2>
  </header>
 <p><span class="white"><strong> <p><a href="#" class="p">歴代の記録、<span><img src="https://torokoid.github.io/mahoroba/0216.JPG" alt="歴代の記録、"></span></a>年代のクリックで飛びます。<br/>戻るにはブラウザの戻るボタンで！ </p></strong></span></p>
-<div style="background: url(https://torokoid.github.io/mahoroba/454.JPG) no-repeat top center; background-size:contain;"><h1><span style="color:#ff0000; background-color:rgb(0,255,255,0.1)"><marquee behavior="alternate">
+<div style="background: url(https://torokoid.github.io/mahoroba/454.JPG) no-repeat top center; background-size:contain;">
+<h1><span style="color:#ff0000; background-color:rgb(0,255,255,0.1)"><marquee behavior="alternate">
+ <a href="https://torokoid.github.io/mahoroba_2018/">______2018年の記録</a> </marquee></span></h1>
+<h1><span style="color:#ff0000; background-color:rgb(0,255,255,0.1)"><marquee behavior="alternate">
  <a href="https://torokoid.github.io/mahoroba_2017/">_____2017年の記録</a> </marquee></span></h1>
 <h1><span style="color:#ff0000; background-color:rgb(0,255,255,0.1)"><marquee behavior="alternate">
  <a href="https://torokoid.github.io/mahoroba_2016/">____2016年の記録</a> </marquee></span></h1>
