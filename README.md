@@ -190,7 +190,7 @@ body::before {
        </section>
       <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
        <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
-<p align="right"><marquee direction="left" scrollamount="20" width="70%">まほろばの里、ロッジ全景,2016/08/12 06:32撮影 ~~~ (^^)/</marquee></p>
+<p align="right"><marquee direction="left" scrollamount="20" width="70%">まほろばの里、ロッジ全景、2016/08/12 06:32撮影 ~~~ (^^)/</marquee></p>
 <!-- フッタ -->
  <footer>
  Copyright 2018/05/20 S.Hada
