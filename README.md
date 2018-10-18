@@ -2,6 +2,7 @@
  <html lang="ja">
  <head>
  <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10" />
  <title>まほろば</title>
 
 <style type="text/css">
