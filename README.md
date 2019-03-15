@@ -77,7 +77,7 @@ body::before {
 </head>
 
 
-<body>
+<body onload="alert('今年も集まりましたね、皆さん元気でGoo！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">
 
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! まほろばの湯 !!!</marquee></span></h1>
