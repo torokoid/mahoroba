@@ -82,7 +82,7 @@ body::before {
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! まほろばの湯 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<a href="https://torokoid.github.io/mahoroba_sitemap/">サイトマップ</a><span class="blinking"><a href="https://torokoid.github.io/mahoroba_Home/">New_home</a></span>
+<a href="https://torokoid.github.io/mahoroba_sitemap/">サイトマップ</a>&nbsp;&nbsp;<span class="blinking"><a href="https://torokoid.github.io/mahoroba_home/">New_home</a></span>
 
 <!-- ヘッダ -->
  <header>
