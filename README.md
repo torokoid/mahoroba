@@ -185,14 +185,14 @@ body::before {
       <section>
  <a href="https://www.yahoo.co.jp/">Yahoo</a>
        </section> </h2>
-      <p>&#160;</p>
-            <section>
+      <p>&#160;</p>
+<!--        <section>
  <h2>Canon imagegateway</h2>
  <iframe src="https://ptl.imagegateway.net/top" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-       </section>
-      <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
+       </section>-->
+<p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
        <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
-<p align="right"><marquee direction="left" scrollamount="20" width="70%">まほろばの里、ロッジ全景、2016/08/12 06:32撮影 ~~~ (^^)/</marquee></p>
+<p align="right"><marquee direction="left" scrollamount="10" width="80%">まほろばの里、ロッジ全景、2016/08/12 06:32撮影 ~~~ (^^)/</marquee></p>
 <!-- フッタ -->
  <footer>
  Copyright 2018/05/20 S.Hada
